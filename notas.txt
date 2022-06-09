@@ -1,0 +1,11 @@
+- Sitio para generar un gitignore
+# https://www.toptal.com/developers/gitignore
+
+
+- Sitio para encontrar un editor config por defecto
+# https://github.com/airbnb/javascript/blob/master/.editorconfig
+
+
+- Configurar eslint
+> npm i -D eslint
+> npx eslint --init
