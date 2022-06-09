@@ -39,6 +39,7 @@ class MongoLib {
   }
 
   async update(collection, id, data) {
+    // hola
     const db = await this.connect();
     await db
       .collection(collection)
